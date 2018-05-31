@@ -1,0 +1,110 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#logo{
+    width: 50px;
+    height: 60px;
+    padding-left: 8px;
+    padding-top: 3px;
+}
+
+#logo_ss{
+    display: none;
+}
+#bbalk{
+    display: none;
+}
+#screen{
+    width: 340px;
+    padding-left: 7px;
+}
+#holder{
+    margin-left: 9px;
+}
+@media screen and (min-width: 550px) and (max-width: 768px){
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#banner{
+    width: 100%;
+    position: fixed;
+    display: block;
+    background-color: #222222;
+}
+#logo_ss{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 79px;
+}
+#holder{
+    width: 26%;  
+    padding-left: 25px;
+    padding-top: 110px;
+    clear: right;
+    float: left;
+}
+#holder img{
+    width: 100%;
+}
+#screen{
+    position: fixed;
+    display: block;
+    padding-top: 109px;
+    max-width: 1000px;
+    margin-left: 240px;
+}
+#logo{
+    display: none;
+}
+#bbalk{
+    display: none;
+    }
+}
+
+@media screen and (min-width: 769px){
+    
+#banner{
+    height: 70px;
+    text-align: center;
+}
+#bbalk{
+    background-color: #222222;
+    height: 323px;
+    padding-left: 117px;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#logo{
+    float: left;
+    width: 85px;
+    height: 85px;
+    padding-left: 10px;
+}
+#holder2{
+    display: block;
+    padding-top: 40px;
+    margin-left: 86.5px;
+}
+#logo_ss{
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+}
+#screen{
+    padding-top: 40px;
+    clear: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#balk{
+    background-color: #222222;
+    height: 20px;
+}
+}
+

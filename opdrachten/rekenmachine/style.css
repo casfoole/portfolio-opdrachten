@@ -1,0 +1,18 @@
+#container{
+    border: 2px solid black;
+    background-color: #F1F0CC;
+    padding: 20px;
+    width: 500px;
+}
+#som{
+  font-size: large;
+  color: black;
+}
+body{
+    background-color: #A71D31;
+}
+#plaatje{
+  width: 300px;
+  height: 300px;
+}
+

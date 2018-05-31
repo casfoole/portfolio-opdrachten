@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="929f246f-08d5-4e01-b30a-c5f6a2641fc7" name="bmi" url="http://localhost\ajax_Bmi_Calculator">
+        <fileTransfer port="0" mountedRoot="C:\MAMP\htdocs\ajax_Bmi_Calculator" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
